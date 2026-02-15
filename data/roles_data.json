@@ -1,0 +1,484 @@
+{
+    "roles": [
+        {
+            "role_name": "Full Stack Developer",
+            "experience_level": "mid-level",
+            "required_skills": [
+                {
+                    "skill_name": "HTML & CSS",
+                    "category": "Frontend",
+                    "required_level": "intermediate",
+                    "importance": "critical",
+                    "description": "Structure and style web pages"
+                },
+                {
+                    "skill_name": "JavaScript",
+                    "category": "Programming Language",
+                    "required_level": "advanced",
+                    "importance": "critical",
+                    "description": "Core language for web development"
+                },
+                {
+                    "skill_name": "React",
+                    "category": "Frontend",
+                    "required_level": "intermediate",
+                    "importance": "critical",
+                    "description": "Build interactive UIs"
+                },
+                {
+                    "skill_name": "Node.js",
+                    "category": "Backend",
+                    "required_level": "intermediate",
+                    "importance": "critical",
+                    "description": "JavaScript runtime for backend"
+                },
+                {
+                    "skill_name": "Express.js",
+                    "category": "Backend",
+                    "required_level": "intermediate",
+                    "importance": "high",
+                    "description": "Web framework for Node.js"
+                },
+                {
+                    "skill_name": "PostgreSQL",
+                    "category": "Database",
+                    "required_level": "intermediate",
+                    "importance": "high",
+                    "description": "Relational database management"
+                },
+                {
+                    "skill_name": "MongoDB",
+                    "category": "Database",
+                    "required_level": "beginner",
+                    "importance": "medium",
+                    "description": "NoSQL document database"
+                },
+                {
+                    "skill_name": "Git",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "critical",
+                    "description": "Version control system"
+                },
+                {
+                    "skill_name": "REST APIs",
+                    "category": "Backend",
+                    "required_level": "intermediate",
+                    "importance": "critical",
+                    "description": "Design and consume APIs"
+                },
+                {
+                    "skill_name": "Docker",
+                    "category": "DevOps",
+                    "required_level": "beginner",
+                    "importance": "high",
+                    "description": "Containerization platform"
+                },
+                {
+                    "skill_name": "Testing (Jest, Pytest)",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "high",
+                    "description": "Write automated tests"
+                },
+                {
+                    "skill_name": "CI/CD",
+                    "category": "DevOps",
+                    "required_level": "beginner",
+                    "importance": "medium",
+                    "description": "Continuous integration and deployment"
+                }
+            ]
+        },
+        {
+            "role_name": "Frontend Developer",
+            "experience_level": "mid-level",
+            "required_skills": [
+                {
+                    "skill_name": "HTML & CSS",
+                    "category": "Frontend",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "JavaScript",
+                    "category": "Programming Language",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "React",
+                    "category": "Frontend",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "TypeScript",
+                    "category": "Programming Language",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "State Management (Redux/Zustand)",
+                    "category": "Frontend",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Responsive Design",
+                    "category": "Frontend",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Webpack/Vite",
+                    "category": "Tools",
+                    "required_level": "beginner",
+                    "importance": "medium"
+                },
+                {
+                    "skill_name": "Testing (Jest, React Testing Library)",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Git",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "REST APIs",
+                    "category": "Backend",
+                    "required_level": "beginner",
+                    "importance": "high"
+                }
+            ]
+        },
+        {
+            "role_name": "Backend Developer",
+            "experience_level": "mid-level",
+            "required_skills": [
+                {
+                    "skill_name": "Python",
+                    "category": "Programming Language",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Django/Flask",
+                    "category": "Backend",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "PostgreSQL",
+                    "category": "Database",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "REST APIs",
+                    "category": "Backend",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "SQL",
+                    "category": "Database",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Redis",
+                    "category": "Database",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Docker",
+                    "category": "DevOps",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Git",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Testing (Pytest)",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Authentication & Authorization",
+                    "category": "Backend",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                }
+            ]
+        },
+        {
+            "role_name": "DevOps Engineer",
+            "experience_level": "mid-level",
+            "required_skills": [
+                {
+                    "skill_name": "Linux",
+                    "category": "Tools",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Docker",
+                    "category": "DevOps",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Kubernetes",
+                    "category": "DevOps",
+                    "required_level": "intermediate",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "CI/CD (Jenkins/GitLab CI)",
+                    "category": "DevOps",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "AWS/Azure/GCP",
+                    "category": "Cloud",
+                    "required_level": "intermediate",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Terraform",
+                    "category": "DevOps",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Ansible",
+                    "category": "DevOps",
+                    "required_level": "beginner",
+                    "importance": "medium"
+                },
+                {
+                    "skill_name": "Monitoring (Prometheus/Grafana)",
+                    "category": "DevOps",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Bash/Python Scripting",
+                    "category": "Programming Language",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Git",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "critical"
+                }
+            ]
+        },
+        {
+            "role_name": "Machine Learning Engineer",
+            "experience_level": "mid-level",
+            "required_skills": [
+                {
+                    "skill_name": "Python",
+                    "category": "Programming Language",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Machine Learning Fundamentals",
+                    "category": "Programming Language",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "TensorFlow/PyTorch",
+                    "category": "Tools",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "NumPy/Pandas",
+                    "category": "Tools",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "SQL",
+                    "category": "Database",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Data Preprocessing",
+                    "category": "Tools",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Model Deployment",
+                    "category": "DevOps",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Docker",
+                    "category": "DevOps",
+                    "required_level": "beginner",
+                    "importance": "medium"
+                },
+                {
+                    "skill_name": "Git",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Cloud Platforms (AWS/GCP)",
+                    "category": "Cloud",
+                    "required_level": "beginner",
+                    "importance": "medium"
+                }
+            ]
+        },
+        {
+            "role_name": "Mobile Developer (React Native)",
+            "experience_level": "mid-level",
+            "required_skills": [
+                {
+                    "skill_name": "JavaScript",
+                    "category": "Programming Language",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "React",
+                    "category": "Frontend",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "React Native",
+                    "category": "Mobile",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "TypeScript",
+                    "category": "Programming Language",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Mobile UI/UX",
+                    "category": "Frontend",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "REST APIs",
+                    "category": "Backend",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "State Management (Redux)",
+                    "category": "Frontend",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Git",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Testing (Jest)",
+                    "category": "Tools",
+                    "required_level": "beginner",
+                    "importance": "medium"
+                }
+            ]
+        },
+        {
+            "role_name": "Data Engineer",
+            "experience_level": "mid-level",
+            "required_skills": [
+                {
+                    "skill_name": "Python",
+                    "category": "Programming Language",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "SQL",
+                    "category": "Database",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "PostgreSQL/MySQL",
+                    "category": "Database",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Apache Spark",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Apache Airflow",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "ETL Pipelines",
+                    "category": "Backend",
+                    "required_level": "advanced",
+                    "importance": "critical"
+                },
+                {
+                    "skill_name": "Data Warehousing",
+                    "category": "Database",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "AWS/GCP",
+                    "category": "Cloud",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                },
+                {
+                    "skill_name": "Docker",
+                    "category": "DevOps",
+                    "required_level": "beginner",
+                    "importance": "medium"
+                },
+                {
+                    "skill_name": "Git",
+                    "category": "Tools",
+                    "required_level": "intermediate",
+                    "importance": "high"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dependencies": {
+        "React": ["JavaScript", "HTML & CSS"],
+        "Node.js": ["JavaScript"],
+        "Express.js": ["Node.js"],
+        "TypeScript": ["JavaScript"],
+        "PostgreSQL": ["SQL"],
+        "Docker": [],
+        "Kubernetes": ["Docker"],
+        "Redux": ["React"],
+        "Next.js": ["React"],
+        "Django": ["Python"],
+        "Flask": ["Python"],
+        "TensorFlow": ["Python", "Machine Learning Fundamentals"],
+        "PyTorch": ["Python", "Machine Learning Fundamentals"],
+        "React Native": ["React", "JavaScript"],
+        "Apache Spark": ["Python", "SQL"],
+        "Terraform": ["Cloud Platforms (AWS/GCP)"],
+        "CI/CD": ["Git"]
+    }
+}
