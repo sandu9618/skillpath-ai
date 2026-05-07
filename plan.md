@@ -1417,9 +1417,11 @@ skillpath-ai/
 
 ## Implementation Steps
 
+> **TODO legend:** Step titles suffixed with `(TODO)` are not yet satisfied in this repository. Steps without `(TODO)` have corresponding artifacts checked in (as of the last plan update).
+
 ### Phase 1: Setup & Foundation (Day 1)
 
-**Step 1.1**: Project initialization
+**Step 1.1 (TODO)**: Project initialization
 ```bash
 mkdir skillpath-ai
 cd skillpath-ai
@@ -1433,7 +1435,7 @@ pip install google-adk google-genai gradio pydantic plotly pandas
 pip freeze > requirements.txt
 ```
 
-**Step 1.3**: Create project structure
+**Step 1.3 (TODO)**: Create project structure
 ```bash
 mkdir -p agents tools data data_types utils config visualizations
 touch agents/__init__.py tools/__init__.py data/__init__.py
@@ -1441,7 +1443,7 @@ touch data_types/__init__.py utils/__init__.py config/__init__.py
 touch visualizations/__init__.py
 ```
 
-**Step 1.4**: Setup environment variables
+**Step 1.4 (TODO)**: Setup environment variables
 ```bash
 # Create .env file
 echo "GOOGLE_API_KEY=your-api-key-here" > .env
@@ -1584,7 +1586,7 @@ root_agent = Agent(
 
 ### Phase 5: Visualization (Day 4)
 
-**Step 5.1**: Create `visualizations/skill_gap_viz.py`
+**Step 5.1 (TODO)**: Create `visualizations/skill_gap_viz.py`
 ```python
 import plotly.graph_objects as go
 
@@ -1606,7 +1608,7 @@ def create_learning_timeline(
 
 ### Phase 6: Gradio UI (Day 5)
 
-**Step 6.1**: Create `gradio_app.py`
+**Step 6.1 (TODO)**: Create `gradio_app.py`
 ```python
 import gradio as gr
 from google import genai
@@ -1653,22 +1655,22 @@ demo.launch()
 
 ### Phase 7: Testing & Refinement (Day 5-6)
 
-**Step 7.1**: Test with various queries
+**Step 7.1 (TODO)**: Test with various queries
 - Different skill levels (beginner, intermediate)
 - Different target roles
 - Edge cases (no skills, many skills)
 
-**Step 7.2**: Refine agent prompts
+**Step 7.2 (TODO)**: Refine agent prompts
 - Improve skill extraction accuracy
 - Better course search queries
 - More natural responses
 
-**Step 7.3**: Optimize web search
+**Step 7.3 (TODO)**: Optimize web search
 - Test different search query formats
 - Improve course filtering
 - Handle search failures gracefully
 
-**Step 7.4**: Polish UI
+**Step 7.4 (TODO)**: Polish UI
 - Better formatting
 - Loading indicators
 - Error messages
@@ -1927,8 +1929,8 @@ This implementation plan provides a complete roadmap for building **SkillPath AI
 **Next Steps**:
 1. Review this plan
 2. Confirm scope and features
-3. Begin Phase 1: Setup & Foundation
-4. Iterate through each phase
+3. Work through **Implementation Steps** above; complete every step marked **`(TODO)`**
+4. Remove each `(TODO)` marker from the step title once that step is done (keep the legend block until the project is feature-complete)
 
 Ready to start building? Let me know if you need clarification on any section!
 
