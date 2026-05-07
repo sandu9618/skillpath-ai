@@ -1586,7 +1586,7 @@ root_agent = Agent(
 
 ### Phase 5: Visualization (Day 4)
 
-**Step 5.1 (TODO)**: Create `visualizations/skill_gap_viz.py`
+**Step 5.1**: Create `visualizations/skill_gap_viz.py`
 ```python
 import plotly.graph_objects as go
 
